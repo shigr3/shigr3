@@ -1,15 +1,16 @@
 # 🛠️ Hi there, I'm shigr3! 👋
 
-気になった技術はとりあえず触ってみる、モノ作りが好きな開発者です。
-日々の生活をちょっと便利にするツールや、こだわりのあるアプリケーションを開発しています。
+「shigr3」と書いて「しぐれ」と読みます。Leet記法です。
+どちらかというと初心者ですがもう何年もやってます（＝つまり進歩がない）
+とりあえず日々ネットに生息して頑張って（？）ます。
 
 ---
 
 ## 🚀 About Me
 
-- ⚡ **現在注力していること:** Webブラウザで動く軽量なチャットUIの制作、自動化ツールの開発
-- 🛠️ **趣味の開発テーマ:** データの視覚化、 railway 関連の記録システム、APIを活用したモックアップ作成
-- 📝 **大切にしていること:** 「既存の綺麗なコードを壊さないこと」と「直感的な使いやすさ」
+- ⚡ **現在注力していること:** HTML & CSS & JS　や　Pythonで暮らしが便利になるものや使っていて楽しいもの、何かの役に立つものを作っています。
+- 🛠️ **趣味の開発テーマ:** AI開発とフロントエンドメイン
+- 📝 **大切にしていること:** 「既存の機能を壊さずに進化させること」と「直感的な使いやすさ」を大事にしてます。
 
 ---
 
@@ -26,7 +27,6 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Google%20Gemini-121011?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
 </p>
