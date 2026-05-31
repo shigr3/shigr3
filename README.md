@@ -18,7 +18,7 @@ I'm a Japanese.
 ## 🌸 My Favorites
 
 - **Anime:** 魔法少女まどか⭐︎マギカ、Re:ゼロから始める異世界生活、リコリス・リコイル、時々ボソッとロシア語でデレる隣のアーリャさん などのアニメ作品が好きです。（外国語圏の方のために正式な名前で書きました。）
-- **Interests:** 鉄道とPC・IT関係、ホロライブを見ることが趣味です。ガジェットオタクです。
+- **Interests:** 鉄道とPC・IT関係、ホロライブ（ノエル、ぺこーら、すいちゃん）と、しぐれういを見ることが趣味です（私の名前とは関係ないですね…）。ガジェットオタクです。
 ---
 
 ## 🧰 Tech Stack
@@ -45,12 +45,6 @@ I'm a Japanese.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Google%20Gemini-121011?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![shigr3's GitHub stats](https://github-readme-stats.vercel.app/api?username=shigr3&show_icons=true&theme=radical)
 
 ---
 
